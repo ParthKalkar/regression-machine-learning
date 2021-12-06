@@ -26,3 +26,6 @@ To run the code:
 3. Use https://colab.research.google.com/?utm_source=scs-index
 4. Upload the notebook and datasets
 5. Run each cell
+
+## Results
+Check the notebook with code, the cells were ran already and they have some output
