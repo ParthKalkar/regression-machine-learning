@@ -1,2 +1,28 @@
 # regression-machine-learning
-In this assignment, you will solve several tasks applying regression. For the first one, you need to try different regression models to fill the missing values in each feature with a regression model for each of them. For the second task, you will explore a dataset of email spam and train logistic regression to find junk email, and finally, conclude features that influence the decision the most. You are required to submit your solutions via Moodle as a single zip file. The zip archive should contain a single ipynb, and a single PDF for the theoretical parts 2.2 and 3.2. Please, put your name and email at Innopolis.university as the first line in the notebook. Source code should be clean, easy to read, and well documented. Bonus points may be awarded for elegant solutions. However, these bonus points will only be able to cancel the effect of penalties. Do not just copy and paste solutions from the Internet. You are allowed to collaborate on general ideas with other students as well as consult books and Internet resources. However, be sure to credit the sources you use and type all the code, documentation by yourself.
+In this project, I solved several tasks applying regression. 
+
+## Linear Regression
+For the first one, we need to try different regression models to fill the missing values in each feature with a regression model for each of them. 
+
+## Logisitc Regression
+For the second task, we will explore a dataset of email spam and train logistic regression to find junk email, and finally, conclude features that influence the decision the most. 
+
+## Code
+It can be found in the file named _ML_A1.ipynb_
+
+## Problem Statement 
+It can be found in the file named _ML_A1.pdf_
+
+## Theoretical questions
+It can be found in the file named _ML_A1_Theory.pdf_
+
+## Datasets
+All the necessary datasets have been uploaded
+
+## Run
+To run the code: 
+1. Download the zip
+2. Extract it 
+3. Use https://colab.research.google.com/?utm_source=scs-index
+4. Upload the notebook and datasets
+5. Run each cell
